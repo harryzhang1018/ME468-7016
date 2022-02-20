@@ -10,3 +10,5 @@ python3 DOP853.py
 ```
 python3 bEuler-msd.py
 ```
+
+### For this homework, I collaborate with Ishaan Mahajan.
